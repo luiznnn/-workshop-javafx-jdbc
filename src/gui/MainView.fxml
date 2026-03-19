@@ -12,8 +12,7 @@
             fx:controller="gui.MainViewController">
 
     <content>
-        <VBox fx:id="vboxMain">
-
+        <VBox  prefHeight="300.0" prefWidth="350.0">
             <children>
 
                 <MenuBar>
